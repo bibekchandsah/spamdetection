@@ -1,7 +1,7 @@
 # Spam Email Detection
 
 This project is a machine learning-based spam email detection system implemented in Python. It uses the Naive Bayes algorithm to classify emails as spam or ham (not spam).
-
+<br>👉 <a href="https://detecthamspam.streamlit.app/" target="_blank">Spam Detection</a>
 ## Dataset
 
 The dataset used is `spam.csv`, which contains labeled email messages. Each message is labeled as either 'spam' or 'ham'.
